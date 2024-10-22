@@ -1,5 +1,8 @@
 {
   "drips": {
+    "sepolia": {
+      "ownedBy": "0x581404624c4f34c032D0615A4f5E350418B80D7a"
+    },
     "optimism-sepolia": {
       "ownedBy": "0x44f59d8C47EF6Fa8fcF477Bfead562268Dc6C8AE"
     },
