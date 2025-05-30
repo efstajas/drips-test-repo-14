@@ -11,6 +11,9 @@
     },
     "ethereum": {
       "ownedBy": "0xEF4B994f97092fD22B8a880c47F053910788471b"
+    },
+    "localtestnet": {
+      "ownedBy": "0x877e6c6D3706EceD8871D329fF2f94bb2c5984a5"
     }
   }
 }
